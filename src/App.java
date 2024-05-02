@@ -1,5 +1,4 @@
 import com.formdev.flatlaf.themes.FlatMacDarkLaf;
-import org.w3c.dom.ls.LSOutput;
 
 import javax.swing.*;
 import java.awt.*;
